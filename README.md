@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Tomás 👋
 
-<!--
-**tomasmaia07/tomasmaia07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Biomedical Engineering (Medical AI)  
+🧠 EEG + Machine Learning for clinical decision support  
+📍 Copenhagen / Boston  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I work at the intersection of clinical neurophysiology and machine learning, 
+building interpretable AI systems for neurological outcome prediction and EEG analysis.
+
+---
+
+## 🧠 Current Focus
+
+- EEG foundation models  
+- Latent space representations  
+- Clinical decision support systems  
+- Medical AI startups  
+
+---
+
+## 🛠 Toolbox
+
+Python | PyTorch | Scikit-learn  
+AWS | Slurm | Docker  
+EEG signal processing | Clinical ML  
+
+---
+
+## 📫 Contact
+
+LinkedIn : https://www.linkedin.com/in/tomas-j-maia/
+
